@@ -1,0 +1,2 @@
+# MockCollapsingToolbar
+MockCollapsingToolbar
